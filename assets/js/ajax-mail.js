@@ -1,7 +1,7 @@
  $(function() {
 
     // Get the form.
-    var form = $('#contact-form');
+    var form = $('');
 
     // Get the messages div.
     var formMessages = $('.form-message');
